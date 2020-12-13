@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 831 Contributions in the Year 2020
+> 🏆 832 Contributions in the Year 2020
  > 
 > 📦 284.0 kB Used in Github's Storage 
  > 
@@ -65,6 +65,9 @@ Sunday       105 commits    ██░░░░░░░░░░░░░░░�
 No Activity Tracked This Week
 
 🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
