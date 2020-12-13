@@ -1,4 +1,25 @@
+<!--
+<a href="https://twitter.com" target="_blank" rel="nofollow">
+ <img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> 
+
+https://www.linkedin.com/in/lenagiacalone/
+-->
+<a href="https://www.linkedin.com/" target="_blank" rel="nofollow">
+ <img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+
+
 <h3 align="center">👋 Hello! I'm Léna.</h3>
+
+---
+
+
+
+
+
+
 
 <!--
 **lgiacalo/lgiacalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
