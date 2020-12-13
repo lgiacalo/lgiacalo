@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=lgiacalo&show_icons=true&theme=nord&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lgiacalo&theme=nord">
+</p>
+
+</details>
+
 <details>
  <summary> My Programming stats: </br></summary>
  
