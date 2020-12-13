@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<details>
+ <summary> My Programming stats: </br></summary>
+ 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,3 +95,5 @@ C++                      4 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+</details>
