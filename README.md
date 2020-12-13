@@ -19,8 +19,8 @@ Here are some ideas to get you started:
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=lgiacalo&show_icons=true&theme=nord&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lgiacalo&theme=nord">
+  <img src = "https://github-readme-stats.vercel.app/api?username=lgiacalo&show_icons=true&line_height=20&theme=nord">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lgiacalo&layout=compact&theme=nord">
 </p>
 
 </details>
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
  <summary>🤖 <b>My programming stats</b></summary>
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-828782%20lines%20of%20code-blue)
 
