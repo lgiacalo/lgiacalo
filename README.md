@@ -22,6 +22,11 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api?username=lgiacalo&show_icons=true&line_height=20&theme=nord">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lgiacalo&layout=compact&theme=nord">
 </p>
+ 
+<br>
+<p align = "center">
+  <imp src = "https://github-readme-stats.vercel.app/api/wakatime?username=lgiacalo&theme=nord">
+</p>
 
 </details>
 
