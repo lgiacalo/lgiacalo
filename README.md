@@ -15,12 +15,6 @@ https://www.linkedin.com/in/lenagiacalone/
 
 ---
 
-
-
-
-
-
-
 <!--
 **lgiacalo/lgiacalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,7 +47,7 @@ Here are some ideas to get you started:
 
 <details>
  <summary>🤖 <b>My programming stats</b></summary>
- 
+ <br>
 <!--START_SECTION:waka-->
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-828782%20lines%20of%20code-blue)
