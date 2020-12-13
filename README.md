@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
- <summary> My Programming stats: </br></summary>
+ <summary>🤖 <b>My programming stats</b></summary>
  
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
