@@ -49,20 +49,19 @@ Here are some ideas to get you started:
  <summary>🤖 <b>My programming stats</b></summary>
  <br>
 <!--START_SECTION:waka-->
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-828782%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 832 Contributions in the Year 2020
+> 🏆 844 Contributions in the Year 2020
  > 
-> 📦 284.0 kB Used in Github's Storage 
+> 📦 284.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 42 Public Repositories 
  > 
-> 🔑 28 Private Repositories  
+> 🔑 30 Private Repositories  
 
 **I'm a Night 🦉** 
 
@@ -93,16 +92,24 @@ Sunday       105 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     48 mins             █████████████░░░░░░░░░░░░   53.05% 
+Vue.js                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   22.86% 
+Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4% 
+JSX                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 31 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vuejs                    1 hr 5 mins         ██████████████████░░░░░░░   71.59% 
+Unknown Project          11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+react                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.96% 
+Formations               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
+nodejs                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 31 mins        █████████████████████████   100.0%
 
 ```
 
