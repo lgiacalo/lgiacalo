@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 856 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 287.9 kB Used in Github's Storage 
  > 
@@ -93,16 +93,16 @@ Sunday       120 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lgiacalo.github.io       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
