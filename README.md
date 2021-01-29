@@ -3,9 +3,8 @@
  <img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
 
-https://www.linkedin.com/in/lenagiacalone/
 -->
-<a href="https://www.linkedin.com/" target="_blank" rel="nofollow">
+<a href="https://www.linkedin.com/in/lenagiacalone/" target="_blank" rel="nofollow">
  <img align="right" alt="Pratik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
