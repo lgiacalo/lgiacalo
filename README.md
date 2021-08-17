@@ -92,16 +92,19 @@ Sunday       166 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 39 mins       █████████████████░░░░░░░░   69.51% 
+Bash                     1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   30.37% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 49 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pappers-engine           3 hrs 45 mins       ████████████████████████░   98.32% 
+clone-engine             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 49 mins       █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +125,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lgiacalo/lgiacalo/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/08/2021
+ Last Updated on 17/08/2021
 <!--END_SECTION:waka-->
 
 </details>
