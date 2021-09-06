@@ -122,7 +122,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lgiacalo/lgiacalo/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2021
+ Last Updated on 06/09/2021
 <!--END_SECTION:waka-->
 
 </details>
