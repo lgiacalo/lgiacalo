@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 > 🏆 1,045 Contributions in the Year 2021
  > 
-> 📦 297.1 kB Used in Github's Storage 
+> 📦 297.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,16 +92,19 @@ Sunday       166 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 8 mins         ████████████████████████░   98.73% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 9 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+irc-retour-au-college    46 mins             ████████████████░░░░░░░░░   67.29% 
+irc-chaine-encode        12 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.21% 
+prog                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.5%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 9 mins         █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +125,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lgiacalo/lgiacalo/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/09/2021
+ Last Updated on 07/09/2021
 <!--END_SECTION:waka-->
 
 </details>
