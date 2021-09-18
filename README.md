@@ -92,16 +92,17 @@ Sunday       111 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               6 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+js                       5 mins              ███████████████████████░░   92.45% 
+prog                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   7.55%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +123,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lgiacalo/lgiacalo/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/09/2021
+ Last Updated on 18/09/2021
 <!--END_SECTION:waka-->
 
 </details>
