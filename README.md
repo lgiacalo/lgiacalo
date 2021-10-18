@@ -49,11 +49,11 @@ Here are some ideas to get you started:
  <br>
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-966100%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-966183%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,055 Contributions in the Year 2021
+> 🏆 1,056 Contributions in the Year 2021
  > 
 > 📦 297.3 kB Used in GitHub's Storage 
  > 
@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    139 commits    █████░░░░░░░░░░░░░░░░░░░░   19.86% 
-🌆 Daytime    369 commits    █████████████░░░░░░░░░░░░   52.71% 
+🌞 Morning    138 commits    █████░░░░░░░░░░░░░░░░░░░░   19.71% 
+🌆 Daytime    370 commits    █████████████░░░░░░░░░░░░   52.86% 
 🌃 Evening    184 commits    ██████░░░░░░░░░░░░░░░░░░░   26.29% 
 🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
 
@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
-Tuesday      79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
+Monday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.43% 
+Tuesday      78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.14% 
 Wednesday    134 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.14% 
 Thursday     160 commits    █████░░░░░░░░░░░░░░░░░░░░   22.86% 
 Friday       82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
@@ -130,7 +130,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lgiacalo/lgiacalo/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/10/2021
+ Last Updated on 18/10/2021
 <!--END_SECTION:waka-->
 
 </details>
