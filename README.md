@@ -92,18 +92,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               4 hrs 2 mins        ████████████████████████░   96.52% 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 10 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-shunt_v0                 4 hrs 10 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 10 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -124,7 +122,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lgiacalo/lgiacalo/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/05/2022 12:24:30 UTC
+ Last Updated on 06/05/2022 12:16:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
