@@ -49,13 +49,15 @@ Here are some ideas to get you started:
  <br>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-876%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 51 Contributions in the Year 2022
  > 
-> 📦 298.0 kB Used in GitHub's Storage 
+> 📦 298.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -122,7 +124,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lgiacalo/lgiacalo/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 12:16:43 UTC
+ Last Updated on 08/05/2022 12:10:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
