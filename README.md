@@ -94,16 +94,20 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      11 mins             ███████████░░░░░░░░░░░░░░   46.02% 
+JSON                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Python                   4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.83% 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bootcamp_python          25 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      25 mins             █████████████████████████   100.0%
 
 ```
 
@@ -124,7 +128,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lgiacalo/lgiacalo/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/05/2022 12:25:26 UTC
+ Last Updated on 24/05/2022 12:11:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
