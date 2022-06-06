@@ -94,17 +94,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               17 mins             ██████████████████████░░░   88.69% 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.31%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gmailAPI                 19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -125,7 +124,7 @@ C++                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lgiacalo/lgiacalo/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/06/2022 12:10:28 UTC
+ Last Updated on 06/06/2022 12:19:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
