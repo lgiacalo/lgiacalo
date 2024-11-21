@@ -51,7 +51,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+From: 12 December 2020 - To: 20 November 2024
+
+Total Time: 1,844 hrs 9 mins
+
+JavaScript       1,403 hrs 45 mins>>>>>>>>>>>>>>>>>>>------   74.46 %
+Markdown         96 hrs 45 mins  >------------------------   05.13 %
+JSON             71 hrs 53 mins  >------------------------   03.81 %
+Vue.js           68 hrs 33 mins  >------------------------   03.64 %
+Bash             42 hrs 3 mins   >------------------------   02.23 %
+Other            41 hrs          >------------------------   02.18 %
 ```
 
 <!--END_SECTION:waka-->
