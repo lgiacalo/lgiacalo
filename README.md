@@ -33,8 +33,8 @@ Here are some ideas to get you started:
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=lgiacalo&show_icons=true&theme=nord" width="420">
-  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgiacalo&layout=compact&theme=nord&langs_count=6&card_width=320">
+  <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api?username=lgiacalo&show_icons=true&theme=nord" width="450">
+  <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgiacalo&layout=compact&theme=nord&langs_count=6&card_width=320">
 </p>
 
  
