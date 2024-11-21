@@ -50,8 +50,8 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 
-```json
-From: 21 October 2024 - To: 20 November 2024
+```javascript
+From: 22 May 2024 - To: 20 November 2024
 
 Total Time: 0 secs
 
