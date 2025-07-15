@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 13 July 2024 - To: 13 July 2025
+From: 14 July 2024 - To: 14 July 2025
 
 Total Time: 622 hrs 9 mins
 
