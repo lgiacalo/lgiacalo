@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 ```javascript
 From: 21 July 2024 - To: 21 July 2025
 
-Total Time: 627 hrs 30 mins
+Total Time: 587 hrs 41 mins
 
-JavaScript           349 hrs 30 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.19 %
-Other                242 hrs         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.83 %
+JavaScript                 328 hrs 48 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.82 %
+Other                      217 hrs 44 mins ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.03 %
 ```
 
 <!--END_SECTION:waka-->
