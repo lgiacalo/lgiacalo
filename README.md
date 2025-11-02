@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 31 October 2024 - To: 31 October 2025
+From: 01 November 2024 - To: 01 November 2025
 
-Total Time: 911 hrs 6 mins
+Total Time: 913 hrs 34 mins
 
-Other                      534 hrs 57 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.99 %
+Other                      537 hrs 28 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.04 %
 ```
 
 <!--END_SECTION:waka-->
